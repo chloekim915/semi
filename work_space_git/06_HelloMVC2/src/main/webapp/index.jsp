@@ -5,7 +5,7 @@
 <%@include file="/views/common/header.jsp"%>
    
 <section id = "content">
-	<h3>Main GIT 테스트입니다.</h3>
+	<h3>Main GIT 테스트입니다. v1</h3>
 </section>
 
 <%@include file="/views/common/footer.jsp"%>
